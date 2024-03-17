@@ -51,3 +51,4 @@
 - Organizations classified as Transport type 3 and occupations such as Low-Skill Laborers and drivers should be approached with caution due to their higher default rates. Unused offers from previous applications targeting high-income customers should also be handled carefully.
 
 - Dataset: https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
+- Acknowledgments: Learnerea
